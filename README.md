@@ -30,9 +30,10 @@ orders.
 #### TECHNICAL DETAILS & DATA
 
 > - Using Python & various libraries (pandas, numpy, matplotlib, seaborn)
+> - Five data sets (orders, orders_prior, products, customers, departments) with a total of 30+ million rows
 > - Performed various task such as WRANGLING, CLEANING, SUBSETTING, COMBINING, AGGREGATING, GROUPING
 > - Performed data consistency checks, PII management and derived new variables
-> - Created visualizations with Python and completed an Excel report
+> - Created visualizations with Python, exported data in various format (csv, pkl), and completed an Excel report
 
 
 #### DATA CITATION
