@@ -24,3 +24,19 @@ orders.
 >   - Are there differences in ordering habits based on a customer’s loyalty status?
 >   - Are there differences in ordering habits based on a customer’s region?
 >   - Is there a connection between age and family status in terms of ordering habits?
+>   - What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
+>   - What differences can you find in ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
+
+#### TECHNICAL DETAILS & DATA
+
+> - Using Python & various libraries (pandas, numpy, matplotlib, seaborn)
+> - Performed various task such as WRANGLING, CLEANING, SUBSETTING, COMBINING, AGGREGATING, GROUPING
+> - Performed data consistency checks, PII management and derived new variables
+> - Created visualizations with Python and completed an Excel report
+
+
+#### DATA CITATION
+
+> - “The Instacart Online Grocery Shopping Dataset 2017”, accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on 5th March 2022
+> - Please note the customer dataset (customers.csv), as well as the prices column from the products dataset (products.csv), were fabricated for the purpose of this course/achievement. 
+
